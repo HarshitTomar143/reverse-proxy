@@ -38,7 +38,5 @@ This project focuses on **systems fundamentals**: HTTP internals, concurrency, h
 - Uses goroutines and mutexes
 - No race conditions
 
----
 
-## 🏗️ Architecture
 
